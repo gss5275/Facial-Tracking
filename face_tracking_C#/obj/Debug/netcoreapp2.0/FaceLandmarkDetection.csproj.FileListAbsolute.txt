@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Debug\netcoreapp2.0\FaceLandmarkDetection.deps.json
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Debug\netcoreapp2.0\FaceLandmarkDetection.runtimeconfig.json
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Debug\netcoreapp2.0\FaceLandmarkDetection.runtimeconfig.dev.json
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Debug\netcoreapp2.0\FaceLandmarkDetection.dll
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Debug\netcoreapp2.0\FaceLandmarkDetection.pdb
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Debug\netcoreapp2.0\DlibDotNet.dll
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Debug\netcoreapp2.0\DlibDotNet.pdb
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Debug\netcoreapp2.0\FaceLandmarkDetection.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Debug\netcoreapp2.0\FaceLandmarkDetection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Debug\netcoreapp2.0\FaceLandmarkDetection.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Debug\netcoreapp2.0\FaceLandmarkDetection.AssemblyInfo.cs
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Debug\netcoreapp2.0\FaceLandmarkDetection.csproj.CopyComplete
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Debug\netcoreapp2.0\FaceLandmarkDetection.dll
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Debug\netcoreapp2.0\FaceLandmarkDetection.pdb

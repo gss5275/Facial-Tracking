@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\FaceLandmarkDetection.deps.json
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\FaceLandmarkDetection.runtimeconfig.json
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\FaceLandmarkDetection.runtimeconfig.dev.json
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\FaceLandmarkDetection.dll
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\FaceLandmarkDetection.pdb
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\DlibDotNet.dll
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\DlibDotNet.pdb
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\bin\Release\netcoreapp2.0\DlibDotNet.xml
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.AssemblyInfo.cs
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.csproj.CopyComplete
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.dll
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.pdb
+C:\Users\User\Desktop\DlibDotNet\examples\FaceLandmarkDetection\obj\Release\netcoreapp2.0\FaceLandmarkDetection.genruntimeconfig.cache
